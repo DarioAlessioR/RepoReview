@@ -58,10 +58,14 @@ border: 10px solid #96969c;
   text-align: center;
   color: black;
 }
+
 .posi {
   position: absolute;
-  top: 58px;
+  top: 58px ;
   right: 16px;
   
+
 }
+
+
 /*End of file*/
